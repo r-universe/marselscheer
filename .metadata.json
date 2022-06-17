@@ -1,0 +1,14 @@
+[
+  {
+    "package": "bootGOF",
+    "oncran": true
+  },
+  {
+    "package": "sanityTracker",
+    "oncran": true
+  },
+  {
+    "package": "simTool",
+    "oncran": true
+  }
+]
