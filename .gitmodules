@@ -3,11 +3,6 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "simTool"]
-	path = simTool
-	url = https://github.com/marselscheer/simtool
-	shallow = true
-	registered = true
 [submodule "bootGOF"]
 	path = bootGOF
 	url = https://github.com/marselscheer/bootgof
@@ -16,5 +11,10 @@
 [submodule "sanityTracker"]
 	path = sanityTracker
 	url = https://github.com/marselscheer/sanitytracker
+	shallow = true
+	registered = true
+[submodule "simTool"]
+	path = simTool
+	url = https://github.com/marselscheer/simtool
 	shallow = true
 	registered = true
